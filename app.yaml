@@ -7,5 +7,5 @@ env_variables:
   DB_HOST: 'fastapi-db'
   DB_NAME: 'students-db'
   DB_USER: 'postgres'
-  DB_PASSWORD: '1sr@3LR3y'
+  DB_PASSWORD: '3sTudi@nte'
   DB_CONNECTION_NAME: 'computacion-en-la-nube-489021:us-central1:fastapi-db'
