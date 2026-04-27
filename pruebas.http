@@ -1,0 +1,11 @@
+
+GET http://localhost:8000
+
+###
+POST http://localhost:8000/create/
+Content-Type: application/json
+
+{
+    "title": "John Doe",
+    "content": "Un ejemplo"
+}
